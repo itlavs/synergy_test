@@ -25,6 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b7"
             tools:ignore="ButtonStyle" />
 
@@ -33,6 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b8"
             tools:ignore="ButtonStyle" />
 
@@ -41,6 +43,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b9"
             tools:ignore="ButtonStyle" />
 
@@ -63,6 +66,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b4"
             tools:ignore="ButtonStyle" />
 
@@ -71,6 +75,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b5"
             tools:ignore="ButtonStyle" />
 
@@ -79,6 +84,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b6"
             tools:ignore="ButtonStyle" />
 
@@ -101,6 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b1"
             tools:ignore="ButtonStyle" />
 
@@ -109,6 +116,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b2"
             tools:ignore="ButtonStyle" />
 
@@ -117,6 +125,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b3"
             tools:ignore="ButtonStyle" />
 
@@ -139,6 +148,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="numberClick"
             android:text="@string/b0"
             tools:ignore="ButtonStyle" />
 
